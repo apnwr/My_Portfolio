@@ -86,12 +86,7 @@ padding:0 18px;
     margin-top: 5%;
 }
 
-/* .title{
-    position: absolute;
-    z-index: -1;
-} */
 
-/* Title Image */
 
 .title-image{
     width: 60%;
@@ -101,15 +96,8 @@ padding:0 18px;
     
 }
 
-/* img.title-image{
-    opacity: 1;
-} */
 
-/* img.title-image:hover{
-    opacity: 1;
-} */
-
-/* feature */
+/* strengths */
 .strength{
     padding: 7% 15%;
     text-align: center;
@@ -170,7 +158,7 @@ padding:0 18px;
     margin: 20px 20px 50px;
 }
 
-/* PRicing Section */
+/* hobbies Section */
 
 #hobbies{
     padding: 6.25rem;
@@ -184,10 +172,6 @@ padding:0 18px;
 
 
 
-/* .title-image{
-       visibility: hidden;
-        
-    }  */
 
 
 
