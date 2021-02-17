@@ -110,7 +110,7 @@ padding:0 18px;
 } */
 
 /* feature */
-.feature{
+.strength{
     padding: 7% 15%;
     text-align: center;
     background-color: #fff;
@@ -137,9 +137,9 @@ padding:0 18px;
     padding: 5%;
 }
 
-/* TESTIMONIALS */
+/* PROJECTS */
 
-#testimonials{
+#projects{
     
     text-align: center;
     background-color: #91684a;
@@ -147,7 +147,7 @@ padding:0 18px;
     
 }
 
-.testimonial-image{
+.project-image{
     width: 20%;
     border-radius: 100%;
     margin: 20px;
@@ -158,13 +158,13 @@ padding:0 18px;
 }
 
 
-#press{
+#skills{
     background-color: #91684a;
     text-align: center;
     padding-bottom: 3%; 
 }
 
-.press-logo{
+.skills-logo{
     width: 25%;
     height: 15%;
     margin: 20px 20px 50px;
