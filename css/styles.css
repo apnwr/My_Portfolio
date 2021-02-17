@@ -1,0 +1,235 @@
+body{
+    font-family: "Montserrat";
+    border: 10px solid white;
+}
+
+
+
+#title{
+        
+    color: rgb(247, 246, 239);
+    
+}
+.container-fluid{
+    /* background-image: url("/Users/ayushpanwar/Desktop/Portfolio/tindog/images/keyboard.jpeg"); */
+    background-repeat: no-repeat;   
+    width: 100%;
+    
+}
+.background-top{
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: -1;
+    opacity: 0.9;
+    background-clip: padding-box;
+    background-color: black;  
+    width: 100%;
+
+}
+
+#bg-top-img{
+    filter: blur(8px);
+  -webkit-filter: blur(5px);
+
+}
+
+.container-fluid{
+    padding: 3% 15% 7%;
+}
+
+h1{ 
+    font-family: "Montserrat-Black",sans-serif;
+    font-weight: 900;
+    font-size: 3.5rem;
+    line-height: 1.5;
+       
+}
+h2{
+    font-family: "Montserrat-Bold",sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+ h3{
+    font-family: "Montserrat-bold", sans-serif;
+    font-size: 1.5rem;
+ }
+/* NAVIGATION BAR */
+.navbar{
+    padding:0 0 4.5rem;
+}
+
+.navbar-brand{
+    font-family: "Ubuntu";
+    font-size: 2.5rem;
+    font-weight: "bold";    
+}
+
+.nav-item{
+padding:0 18px;
+}
+
+.card-images{
+    width: 100%;
+    height: 40%;
+}
+
+.nav-link{
+    font-family: "Montserrat";
+    font-weight: lighter;
+    font-size: 1.2rem;
+}
+
+/* Download Button */
+
+.download-btn{
+    margin-top: 5%;
+}
+
+/* .title{
+    position: absolute;
+    z-index: -1;
+} */
+
+/* Title Image */
+
+.title-image{
+    width: 60%;
+    transform: rotate(0deg);
+    position:absolute;
+    right:10%;
+    
+}
+
+/* img.title-image{
+    opacity: 1;
+} */
+
+/* img.title-image:hover{
+    opacity: 1;
+} */
+
+/* feature */
+.feature{
+    padding: 7% 15%;
+    text-align: center;
+    background-color: #fff;
+    position: relative;
+    
+    
+}
+
+.icon{
+    
+    margin-bottom: 1rem;
+    color: #ef8172;
+}
+
+.ft1{
+    color: #8f8f8f;
+}
+
+.icon:hover{
+    color:#ff4c68;
+}
+
+.ftr{
+    padding: 5%;
+}
+
+/* TESTIMONIALS */
+
+#testimonials{
+    
+    text-align: center;
+    background-color: #91684a;
+    color: #fff;
+    
+}
+
+.testimonial-image{
+    width: 20%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+.carousel-item{
+    padding: 7% 15%;
+}
+
+
+#press{
+    background-color: #91684a;
+    text-align: center;
+    padding-bottom: 3%; 
+}
+
+.press-logo{
+    width: 25%;
+    height: 15%;
+    margin: 20px 20px 50px;
+}
+
+/* PRicing Section */
+
+#hobbies{
+    padding: 6.25rem;
+    text-align: center;
+    background-image: url("/Users/ayushpanwar/Desktop/Portfolio/Portfolio/images/skies.png");
+}
+
+.hobbies-column{
+    padding: 3% 2%; 
+}
+
+
+
+/* .title-image{
+       visibility: hidden;
+        
+    }  */
+
+
+
+/* Call to action */
+
+#cta{
+    background-color: #91684a ;
+    color: #fff;
+    text-align: center;
+    padding: 7% 15% ;
+}
+
+#c{
+    font-family: "Montserrat-Black",sans-serif;
+    font-size: 3.5rem;
+    line-height: 1.5;
+    font-weight: 900;
+}
+
+/* footer */
+#footer{
+    text-align: center;
+    padding: 7% 15%;
+
+}
+
+.foot{
+    padding: 3% 5%;
+}
+
+@media (max-width:998px){
+
+    #title{
+        text-align: center;
+    }
+
+    .title-image{
+        position: static;
+        transform: rotate(0);
+        
+    } 
+  
+        
+    
+}
