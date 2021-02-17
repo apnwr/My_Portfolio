@@ -175,7 +175,7 @@ padding:0 18px;
 #hobbies{
     padding: 6.25rem;
     text-align: center;
-    background-image: url("/Users/ayushpanwar/Desktop/Portfolio/Portfolio/images/skies.png");
+    background-image: url("../images/skies.png");
 }
 
 .hobbies-column{
