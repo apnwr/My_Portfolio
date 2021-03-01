@@ -203,7 +203,6 @@ padding:0 18px;
 }
 
 @media (max-width:998px){
-
     #title{
         text-align: center;
     }
@@ -212,8 +211,5 @@ padding:0 18px;
         position: static;
         transform: rotate(0);
         
-    } 
-  
-        
-    
+    }             
 }
